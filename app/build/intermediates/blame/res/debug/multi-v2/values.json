@@ -1,0 +1,56 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,174,104",
+                        "endColumns": "48,71,69",
+                        "endOffsets": "99,241,169"
+                    },
+                    "to": {
+                        "startLines": "12,13,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "333,382,454",
+                        "endColumns": "48,71,69",
+                        "endOffsets": "377,449,519"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\values\\elementos_lista.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "19",
+                        "endOffsets": "328"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "15,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "524,815",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "810,970"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComFragment</string>
+    <string name="title_activity_left_fragment">LeftFragment</string>
+    <string name="title_activity_fragment_rigth">FragmentRigth</string>
+</resources>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_venus.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\venus.png"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout_left_fragment.xml.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\layout\\left_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jupiter.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\jupiter.png"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_netuno.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\netuno.png"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mercurio.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\mercurio.png"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marte.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\marte.png"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_terra.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\terra.png"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_urano.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\urano.png"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout_right_fragment.xml.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\layout\\right_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saturno.png.flat",
+        "source": "C:\\Users\\varggu\\Downloads\\PlanetFragment\\app\\src\\main\\res\\drawable\\saturno.png"
+    }
+]
